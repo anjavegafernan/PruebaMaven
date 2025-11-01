@@ -10,6 +10,6 @@ public class App {
             e.printStackTrace();
         }
         reloj.stop();
-        System.out.println("Tiempo transcurrido: " + reloj.getTime() + " ms");
+        System.out.println("Tiempo transcurrido: " + reloj.getTime() + " mins");
     }
 }
